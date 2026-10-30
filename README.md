@@ -15,7 +15,7 @@ Mute a track to listen to a single voice. The code runs directly in TunePad, so 
 
 ## Project Files
 
-- **tunepad_project_135120.json
+- tunepad_project_135120.json
 
 ## Dependencies
 
